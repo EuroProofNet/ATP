@@ -11,6 +11,3 @@ The working group maintains an inventory of theorem provers, which can be found 
 ## License 
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a> The contents of this repository are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>. Please observe the respective author(s) of the individual page(s).
-
-## Authors
-This README was written by Pascal Fontaine and Alexander Steen.
