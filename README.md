@@ -8,4 +8,6 @@ The aim of working group 2 (WG 2) is to promote the output of detailed, checkabl
 
 The working group maintains an inventory of theorem provers, which can be found at the [GitHub Wiki of this repository](https://github.com/EuroProofNet/ATP/wiki).
 
+## License 
 
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a> The contents of this repository are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>. 
