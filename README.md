@@ -8,7 +8,9 @@ This repository collects material and documentation of project deliverables rela
 
 ## Wiki on ATPs
 
-The working group maintains an inventory of theorem provers, which can be found at the [GitHub Wiki of this repository](https://github.com/EuroProofNet/ATP/wiki).
+The working group maintains an inventory of theorem provers, which can be found at the **[GitHub Wiki of this repository](https://github.com/EuroProofNet/ATP/wiki)**.
+
+*The wiki is ongoing work towards deliverable D3 [see the MoU of COST action CA20111](https://www.cost.eu/actions/CA20111/).*
 
 ## License 
 
