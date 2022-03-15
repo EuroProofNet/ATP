@@ -1,6 +1,6 @@
-# EuroProofNet WG2 on Automated Theorem Provers (ATP)
+# EuroProofNet WG2 on Automated Theorem Provers
 
-[EuroProofNet](https://europroofnet.github.io/) is the European research network on digital proofs. EuroProofNet aims at boosting the interoperability and usability of proof systems. EuroProofNet is a [COST action](https://www.cost.eu/) started on November 2021 gathering more than 220 researchers from 30 different countries.
+<img alt="" style="border-width:0" width="45%" align="left" src="https://repository-images.githubusercontent.com/469755587/a181ecd6-d2ce-4921-a4ad-94c249a569cc"> [EuroProofNet](https://europroofnet.github.io/) is the European research network on digital proofs. EuroProofNet aims at boosting the interoperability and usability of proof systems. EuroProofNet is a [COST action](https://www.cost.eu/) started on November 2021 gathering more than 220 researchers from 30 different countries.
 
 The aim of [working group 2 (WG 2)](https://europroofnet.github.io/wg2/) is to promote the output of detailed, checkable proofs from automated theorem provers. Work is under way for FOL/HOL theorem provers and SMT solvers, but the expressivity of their input languages renders the task significantly more complicated than e.g., in the propositional SAT world, with a higher need of coordination.
 
